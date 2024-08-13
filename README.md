@@ -1,5 +1,5 @@
 
-# Cypress Framework for ev.com Portal
+# Cypress Framework for EV
 
 ## Description
 
